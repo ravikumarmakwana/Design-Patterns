@@ -1,0 +1,15 @@
+F:\ASP.NET Core\DesignPatterns\AbstractFactoryDesignPattern\bin\Debug\net6.0\AbstractFactoryDesignPattern.exe
+F:\ASP.NET Core\DesignPatterns\AbstractFactoryDesignPattern\bin\Debug\net6.0\AbstractFactoryDesignPattern.deps.json
+F:\ASP.NET Core\DesignPatterns\AbstractFactoryDesignPattern\bin\Debug\net6.0\AbstractFactoryDesignPattern.runtimeconfig.json
+F:\ASP.NET Core\DesignPatterns\AbstractFactoryDesignPattern\bin\Debug\net6.0\AbstractFactoryDesignPattern.dll
+F:\ASP.NET Core\DesignPatterns\AbstractFactoryDesignPattern\bin\Debug\net6.0\AbstractFactoryDesignPattern.pdb
+F:\ASP.NET Core\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\AbstractFactoryDesignPattern.csproj.AssemblyReference.cache
+F:\ASP.NET Core\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\AbstractFactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Core\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+F:\ASP.NET Core\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\AbstractFactoryDesignPattern.AssemblyInfo.cs
+F:\ASP.NET Core\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+F:\ASP.NET Core\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\AbstractFactoryDesignPattern.dll
+F:\ASP.NET Core\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\refint\AbstractFactoryDesignPattern.dll
+F:\ASP.NET Core\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\AbstractFactoryDesignPattern.pdb
+F:\ASP.NET Core\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\AbstractFactoryDesignPattern.genruntimeconfig.cache
+F:\ASP.NET Core\DesignPatterns\AbstractFactoryDesignPattern\obj\Debug\net6.0\ref\AbstractFactoryDesignPattern.dll
