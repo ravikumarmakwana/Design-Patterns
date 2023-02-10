@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{0A8C51EE-84B3-41B1-B7EB-E3ACF8CAD6B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{0A8C51EE-84B3-41B1-B7EB-E3ACF8CAD6B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesignPattern", "FactoryDesignPattern\FactoryDesignPattern.csproj", "{6E8D06A8-EF41-4F0D-A020-D73C77F9B87C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryDesignPattern", "FactoryDesignPattern\FactoryDesignPattern.csproj", "{6E8D06A8-EF41-4F0D-A020-D73C77F9B87C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodDesignPattern", "FactoryMethodDesignPattern\FactoryMethodDesignPattern.csproj", "{55F4760C-0C72-414F-BC0D-707869134177}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethodDesignPattern", "FactoryMethodDesignPattern\FactoryMethodDesignPattern.csproj", "{55F4760C-0C72-414F-BC0D-707869134177}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryDesignPattern", "AbstractFactoryDesignPattern\AbstractFactoryDesignPattern.csproj", "{8BB714BB-FD80-4FE1-8279-9AC68A0B900F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactoryDesignPattern", "AbstractFactoryDesignPattern\AbstractFactoryDesignPattern.csproj", "{8BB714BB-FD80-4FE1-8279-9AC68A0B900F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderDesignPattern", "BuilderDesignPattern\BuilderDesignPattern.csproj", "{FFEBC422-9ABA-403F-AEB5-D5C0842B8240}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderDesignPattern", "BuilderDesignPattern\BuilderDesignPattern.csproj", "{FFEBC422-9ABA-403F-AEB5-D5C0842B8240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeDesignPattern", "PrototypeDesignPattern\PrototypeDesignPattern.csproj", "{D5DF6D07-F618-43D9-BE98-8920819C90FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDesignPattern", "AdapterDesignPattern\AdapterDesignPattern.csproj", "{FF13F379-6609-4488-A0EE-66A75447C597}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{FFEBC422-9ABA-403F-AEB5-D5C0842B8240}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFEBC422-9ABA-403F-AEB5-D5C0842B8240}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFEBC422-9ABA-403F-AEB5-D5C0842B8240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5DF6D07-F618-43D9-BE98-8920819C90FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DF6D07-F618-43D9-BE98-8920819C90FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DF6D07-F618-43D9-BE98-8920819C90FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DF6D07-F618-43D9-BE98-8920819C90FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF13F379-6609-4488-A0EE-66A75447C597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF13F379-6609-4488-A0EE-66A75447C597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF13F379-6609-4488-A0EE-66A75447C597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF13F379-6609-4488-A0EE-66A75447C597}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
